@@ -1,0 +1,173 @@
+
+.nav ul li{
+    display: inline;
+   margin-left: 9%;
+}
+#flag{
+   width: 50px;
+   height: 50px;
+
+
+}
+.brickhouse{
+    background-color: yellow;
+    display: flex;
+}
+#brick{
+    width: 60px;
+    height: 60px;
+}
+#catalog{
+    margin-top: 5%;
+    padding-left: 3%;
+    margin-left: 10%;
+}
+#search{
+    margin-top: 5%;
+    margin-left: 3%;
+    padding-right: 15%;
+}
+.icon{
+    margin-left: 45%;
+    margin-top: 3%;
+    
+
+    }
+    #stars{
+        width: 1277px;
+        height: 100px;
+    }
+    .pwars{
+        color: white;
+        margin-top: -5%;
+        margin-left: 5%;
+        font-size: 30px;
+    }
+    .sery{
+        border: gray solid;
+        
+        margin-right: 1000px;
+
+    }
+    .footer{
+        padding: 20px;
+        background-color: rgb(95, 10, 95);
+        color: white;
+        
+    }
+    .row{
+        display: flex;
+        justify-content: space-between;
+
+    }
+    .footer-two{
+display: flex;
+justify-content: space-between;
+    }
+    .images{
+    display: flex;
+    margin-left: 300px;
+    justify-content: space-between;
+    margin-top: -60%;
+
+    }
+    .img{
+        margin-top: -18px;
+    }
+    
+    .img2{
+        margin-top: -93px;
+    }
+    .images1{
+        display: flex;
+        margin-left: 100px;
+        justify-content: space-between;
+        margin-top: -20%;
+    padding: 200px;
+
+    }
+    .images2{
+        display: flex;
+        margin-left: 40px;
+        justify-content: space-between;
+        margin-top: -25%;
+        margin-right: -90px;
+    padding: 130px;
+ 
+    }
+    #img6{
+margin-left: -10pxpx;
+padding: 40px;
+margin-right: -25px;
+    }
+    .images4{
+        display: flex;
+        margin-left: 20px;
+        justify-content: space-between;
+        margin-top: -10%;
+        margin-right: -70px;
+    padding: 80px;
+    }
+    .images5{
+        margin-left: 5px;
+        display: flex;
+        margin-left: 20px;
+        justify-content: space-between;
+        margin-top: -10%;
+        margin-right: -60px;
+    padding: 90px;
+    }
+    .but{
+        padding: 10px;
+        text-align: center;
+        justify-content: space-between;
+    color: rgb(236, 236, 7);
+    border-radius: 8px;
+    }
+    #button1{
+
+        padding: 15px;
+        width: 5px;
+        color:black
+        background-color rgb(233, 233, 225);
+    }
+    #button1{
+        border-radius: 30px;
+        text-align: center;
+        background-color: yellow;
+    }
+    .see{
+        text-align: center;
+    }
+    #buts{
+color: rgb(9, 128, 233);
+        padding-bottom: -15px;
+        padding: 15px;
+        background-color: yellow;
+    }
+    .main{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    .img11{
+       margin-bottom: 30px; 
+    }
+    #im11{
+        
+    }
+    .cont{
+        /* background-color: bisque; */
+    
+    }
+    #icons{
+        float: left;
+        
+    }
+
+    @media screen and(max-width: 600px){
+        .sery{
+            margin-right: 500px;
+        }
+    
+
+    }
